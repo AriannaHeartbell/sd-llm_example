@@ -2,7 +2,7 @@
 
 SD는 SDXL
 
-reference
+Original Code
 
 0) ChatGPT, Copilot
 1) https://note.com/npaka/, diffusers, controlnet
